@@ -137,7 +137,7 @@ def clear():
 def main():
     first = Node(0)
     first.next = first
-    print("--------------Singly Linked List---------------")
+    print("--------------Circular Linked List---------------")
     
     # Operation performing loop
     while(True):
